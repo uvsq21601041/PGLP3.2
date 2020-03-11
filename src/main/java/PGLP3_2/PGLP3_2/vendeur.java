@@ -9,7 +9,7 @@ public class vendeur extends allEmploye{
 	}
 
 	public double salaire(){
-	
+	//TOOO Auto-generated method stub
 	return salaire+commission;
 }
 }
